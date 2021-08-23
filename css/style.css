@@ -72,7 +72,7 @@ a {
     background: #ef4339;
     color: #fff;
     -webkit-box-shadow: 0 0px 0px 0 rgba(28, 41, 60, 0.2);
-    box-shadow: 0 0px 0px 0 rgba(28, 41, 60, 0.2); }
+    box-shadow: 0 15px 30px 0 rgba(28, 41, 60, 0.2); }
   .btn:hover {
     color: #fff; }
   .btn:active, .btn:focus {
